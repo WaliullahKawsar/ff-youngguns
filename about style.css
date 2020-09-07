@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.fa h1{	
+padding-left: 70px;
+	font-weight: bold;
+	color: black;
+	font-size: 22px;
+    text-align: center;
+}
+.ad{
+    font-family: sans-serif;
+}
+.gf{
+    text-decoration: none;
+    color: black;
+}
+.yc{
+    text-decoration: none;
+    color: black;
+}
+.gb:hover{
+   color: red;
+}
+.gf:hover{
+    color: red;
+}
+.yc:hover{
+    color: red;
+}
+.gb{
+   text-align: center;
+}
