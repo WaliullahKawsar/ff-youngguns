@@ -1,6 +1,6 @@
 *{
 	margin: 0px;
-	padding: 0px;
+	padding: 0px; 
 }
 .fa h1{	
 padding-left: 70px;
@@ -10,6 +10,7 @@ padding-left: 70px;
     text-align: center;
 }
 .ad{
+    padding-left: 15px;
     font-family: sans-serif;
 }
 .gf{
@@ -22,6 +23,7 @@ padding-left: 70px;
 }
 .gb:hover{
    color: red;
+
 }
 .gf:hover{
     color: red;
@@ -31,4 +33,5 @@ padding-left: 70px;
 }
 .gb{
    text-align: center;
+ padding-left: 15px;
 }
