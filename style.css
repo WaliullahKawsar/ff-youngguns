@@ -29,6 +29,7 @@
 	color: white;
 	font-size: 22px;
 	font-family: 'Montserrat', sans-serif;
+    width: 100%,
 }
 
 .rightmenu {
@@ -38,7 +39,8 @@
 }
 
 .rightmenu ul{
-	margin-left: 200px;
+	margin-left: 350px;
+    
 }
 
 .rightmenu ul li{
@@ -51,6 +53,7 @@
 	line-height: 100px;
 	margin-left: 40px;
 	text-transform: uppercase;
+    width: 100%,
 }
 
 .rightmenu ul li:hover{
@@ -68,6 +71,7 @@
 .text h4{
 	font-size: 14px;
 	font-family: 'Montserrat', sans-serif;
+    width: 100%,
 }
 
 .text h1{
@@ -160,4 +164,4 @@ div ul li a:link{
 }
 .sub{
     color: white;
-}
+}    
